@@ -1,5 +1,5 @@
 
-<h1>🌐 Fundamentos de React: escrevendo com Typescript 🌐</h1>
+<h1>🌐 Fundamentos de React: escrevendo com Typescript.</h1>
 
 <p> ▶ Entendendo conceitos de React como Componentização, Props e State.</p>
 <p> ▶ Conceitos de sobreposições de CSS com CSS Modules.</p>

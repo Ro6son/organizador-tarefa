@@ -7,8 +7,8 @@
 <p> ▶ Deixe seu código mais limpo e documentado com a forma mais atual de se escrever React.</p>
 <p> ▶ Boas práticas como DRY (Don't repeat yourself) e SRP (Single Responsibility Principle).</p>
 <h1>📍 Portifólio:</h>
-
-<p> https://organizador-tarefa.web.app/ </p>
+<link href="https://organizador-tarefa.web.app/">
+<p> https://organizador-tarefa.web.app/ </p></link>
 
 # Getting Started with Create React App
 

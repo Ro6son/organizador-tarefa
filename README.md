@@ -6,9 +6,10 @@
 <p> ▶ Conceitos e aplicações práticas de Hooks useState e useEffect, entenda como eles eram usados nos class components.</p>
 <p> ▶ Deixe seu código mais limpo e documentado com a forma mais atual de se escrever React.</p>
 <p> ▶ Boas práticas como DRY (Don't repeat yourself) e SRP (Single Responsibility Principle).</p>
+<body>
 <h1>📍 Portifólio:</h>
 <a href="https://organizador-tarefa.web.app/" target="_blank">Click Aqui!</a>
-
+</body>
 
 # Getting Started with Create React App
 

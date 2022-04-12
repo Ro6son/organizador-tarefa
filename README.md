@@ -1,3 +1,15 @@
+
+<h1>🌐 Fundamentos de React: escrevendo com Typescript 🌐</h1>
+
+<p> ▶ Entendendo conceitos de React como Componentização, Props e State.</p>
+<p> ▶ Conceitos de sobreposições de CSS com CSS Modules.</p>
+<p> ▶ Conceitos e aplicações práticas de Hooks useState e useEffect, entenda como eles eram usados nos class components.</p>
+<p> ▶ Deixe seu código mais limpo e documentado com a forma mais atual de se escrever React.</p>
+<p> ▶ Boas práticas como DRY (Don't repeat yourself) e SRP (Single Responsibility Principle).</p>
+<h1>📍 Portifólio:</h>
+
+<p> https://organizador-tarefa.web.app/ </p>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
